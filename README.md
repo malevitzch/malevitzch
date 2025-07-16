@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm @malevitzch
+
+----
+## About Me:
+I am a computer science student with interests in theoretical informatics and programming language realization (plus some algorithmics).
+My favourite programming language is C++, but I also sometimes use Java and Python.
 
 <!--
 **malevitzch/malevitzch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
