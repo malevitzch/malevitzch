@@ -3,7 +3,7 @@
 ----
 ## About Me:
 I am a computer science student with interests in theoretical informatics and programming language realization (plus some algorithmics).
-My favourite programming language is C++, but I also sometimes use Java and Python.
+My favourite programming language is C++, but I also sometimes use Java and Python and, to a lesser extent, Rust. I am also interested in functional programming although I am yet able to write any reasonable code in Haskell or OCaml.
 
 <!--
 **malevitzch/malevitzch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
