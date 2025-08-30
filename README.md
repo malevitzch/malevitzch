@@ -14,3 +14,11 @@ I like writing low-level code and favourite programming language is C++, but I a
 - [lambda-calculus-ocaml](https://github.com/malevitzch/lambda-calculus-ocaml) - My experiments with implementing untyped lambda calculus in the OCaml programming languages.
   - Stack: OCaml
 - [codeforces](https://github.com/malevitzch/codeforces) - A repository of my solutions to codeforces problems. It also contains a few cool things such as a script that organizes the solutions into directories based on the contest they are from, a script that creates ready-to-use directories for writing contests, and a small collection of templates and libraries to be able to copy-paste commonly used code so I don't have to write it again.
+
+### Languages & Tools
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-3be133?style=flat&logo=ocaml&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white)
