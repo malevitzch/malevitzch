@@ -11,7 +11,7 @@ I like writing low-level code and favourite programming language is C++, but I a
   - Stack: Bash, Lua, Vimscript
 - [chat-app-nodejs](https://github.com/malevitzch/chat-app-nodejs) - A simple chat website which offers websocket-based real-time communication and can be quickly deployed on any machine by using Docker.
   - Stack: Docker, Node.js, HTML, CSS, SQLite3
-- [lambda-calculus-ocaml](https://github.com/malevitzch/lambda-calculus-ocaml) - My experiments with implementing untyped lambda calculus in the OCaml programming languages.
+- [lambda-calculus-ocaml](https://github.com/malevitzch/lambda-calculus-ocaml) - My experiments with implementing untyped lambda calculus in the OCaml programming language.
   - Stack: OCaml
 - [codeforces](https://github.com/malevitzch/codeforces) - A repository of my solutions to codeforces problems. It also contains a few cool things such as a script that organizes the solutions into directories based on the contest they are from, a script that creates ready-to-use directories for writing contests, and a small collection of templates and libraries to be able to copy-paste commonly used code so I don't have to write it again.
 
